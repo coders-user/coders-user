@@ -91,75 +91,6 @@ const 全栈开发者 = {
 
 </div>
 
----
-
-## 🏗️ **架构与开发理念**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="40"/>
-<br><strong>用户体验优先</strong>
-<br><sub>以用户需求为核心的设计思维</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/performance.png" width="40"/>
-<br><strong>性能优化</strong>
-<br><sub>追求极致的加载速度与响应</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/>
-<br><strong>代码质量</strong>
-<br><sub>可维护、可扩展的代码架构</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/innovation.png" width="40"/>
-<br><strong>技术创新</strong>
-<br><sub>拥抱新技术，持续技术升级</sub>
-</td>
-</tr>
-</table>
-
-## 💡 **核心技术能力**
-
-<div align="center">
-
-| **前端开发** | **后端开发** | **数据库设计** | **系统架构** |
-|:---:|:---:|:---:|:---:|
-| SPA应用开发 | RESTful API设计 | 数据库架构设计 | 微服务架构 |
-| 响应式布局 | 服务端渲染 | 查询性能优化 | 负载均衡 |
-| 组件化开发 | 身份认证授权 | 数据迁移 | 容器化部署 |
-| 前端工程化 | 消息队列处理 | 备份策略 | 监控告警 |
-
-</div>
-
----
-
-## 📊 **GitHub 代码统计**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coders-user&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coders-user&layout=compact&theme=vue&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coders-user&theme=vue&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 **专业专长**
 
 <details>
@@ -208,20 +139,6 @@ const 全栈开发者 = {
 
 ---
 
-## 💻 **开发工作流**
-
-```mermaid
-graph LR
-    A[需求分析] --> B[技术选型]
-    B --> C[架构设计]
-    C --> D[开发实现]
-    D --> E[测试验证]
-    E --> F[部署上线]
-    F --> G[监控维护]
-    G --> A
-```
-
----
 
 ## 🌟 **专业理念**
 

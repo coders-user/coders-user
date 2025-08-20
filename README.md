@@ -156,7 +156,6 @@ const 全栈开发者 = {
 
 ## 📈 **持续进步中**
 
-![Profile Views](https://komarev.com/ghpvc/?username=coders-user&color=blueviolet&style=flat-square&label=访问量)
 
 **⭐ 每一行代码都是向更好的Web世界迈进的一步**
 

@@ -68,9 +68,41 @@ const coders_user = {
 
 ## 🌟 精选项目
 
-<!-- 这里将显示您即将创建的项目 -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀-即将推出精彩项目-FF6B6B?style=for-the-badge" alt="Coming Soon"/></a>
+
+[![Awesome Web Tools](https://github-readme-stats.vercel.app/api/pin/?username=coders-user&repo=awesome-web-tools&theme=tokyonight)](https://github.com/coders-user/awesome-web-tools)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=coders-user&repo=portfolio-website&theme=tokyonight)](https://github.com/coders-user/portfolio-website)
+
+</div>
+
+### 🛠️ [Awesome Web Tools](https://github.com/coders-user/awesome-web-tools)
+> 精选的Web开发工具和资源合集，包含设计工具、开发框架、实用工具等多个分类，为开发者提供便捷的资源导航。
+
+**特色功能:**
+- 📚 分类明确的工具合集
+- 🔗 直达链接和详细介绍  
+- 🌟 持续更新的内容
+- 📱 响应式文档布局
+
+**技术栈:** `Markdown` `GitHub Pages` `文档管理`
+
+---
+
+### 🌟 [Portfolio Website](https://github.com/coders-user/portfolio-website) 
+> 现代化个人作品集网站，展示项目经验和技术技能，采用响应式设计和精美动画效果。
+
+**特色功能:**
+- 🎨 现代化UI设计
+- 📱 完全响应式布局
+- ⚡ 优化的性能表现
+- 🌙 深色/浅色主题切换
+
+**技术栈:** `React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+---
+
+<div align="center">
+  <a href="https://github.com/coders-user?tab=repositories"><img src="https://img.shields.io/badge/查看更多项目-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View More Projects"/></a>
 </div>
 
 ## 📈 贡献图
